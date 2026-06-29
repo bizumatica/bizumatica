@@ -30,7 +30,7 @@ engineer:
 
 ```
 
-### 🛰️ TECHNOLOGIAS & EDGE INFRASTRUCTURE
+### 🛰️ TECHNOLOGIES & EDGE INFRASTRUCTURE
 
 * **`[0x01] SSG_ENGINE //`** Extreme build-time optimization using **Hugo** to achieve near-zero deployment latency and maximum structural performance.
 * **`[0x02] RUNTIME_ECOSYSTEM //`** Native Go templates, C/C++, advanced Python automation, low-level Bash Scripting, and specialized Linux SysAdmin environments.
